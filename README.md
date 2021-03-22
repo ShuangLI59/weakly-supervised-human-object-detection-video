@@ -1,4 +1,4 @@
-# Weakly Supervised Human and Object Detection via Spatiotemporal Interactions
+# Weakly Supervised Human-Object Interaction Detection in Video via Contrastive Spatiotemporal Regions
 
 Coming Soon <br>
 Dataset webpage: https://shuangli-project.github.io/VHICO-Dataset/ <br>
