@@ -31,9 +31,9 @@ The data we used is from their extract frames with the folder name `video_256_30
 For more information about our dataset, please visit the [dataset website](https://shuangli-project.github.io/VHICO-Dataset/).
 
 
-### Data labelling tool
+<!-- ### Data labelling tool
 We used [LabelImg](https://github.com/tzutalin/labelImg) to annotate the human and object bounding boxes of video frames from the test set and the unseen test set.
-
+ -->
 
 ## Evaluation
 Please download the human annotations and saved results first. 
